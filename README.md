@@ -8,3 +8,5 @@ now we try a ~~Strikethrough~~ we use this to indicate that there was a mistake 
 **now we try something else** **this is _a text_**
 
 > now we are gonna try to quote a text.   This is a text  
+
+Adding emojis :smile: :boom:
